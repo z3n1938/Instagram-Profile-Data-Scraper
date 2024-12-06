@@ -20,7 +20,7 @@ __Installation and Usage:__
 
 Clone this repository to your local machine.
 
-git clone https://github.com/yourusername/instagram-profile-scraper.git
+git clone https://github.com/z3n1938/Instagram-Profile-Data-Scraper
 
 __Set Up the Project:__
 
